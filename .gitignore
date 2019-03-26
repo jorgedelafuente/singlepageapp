@@ -20,4 +20,4 @@ yarn-error.log*
 *.sln
 *.sw*
 
-/src/keys.js
+# /src/keys.js
