@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
+require('dotenv').config()
 
 Vue.use(Vuex)
 
