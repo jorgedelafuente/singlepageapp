@@ -18,14 +18,14 @@
               src="../assets/smicons/kickit.png"
             >
           </v-flex>
-          <v-flex>
+          <!-- <v-flex>
             <img
               class="cimage"
               alt="contact_image"
               aspect-ratio="2.75"
               src="../assets/smicons/respect.png"
             >
-          </v-flex>
+          </v-flex>-->
           <v-card pt-4 elevation="24" raised class="carousel" app>
             <v-card-title primary-title>
               <v-flex xs12 sm12 column>
