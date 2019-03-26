@@ -9,7 +9,7 @@ import keys from './keys'
 
 Vue.use(VueChatScroll)
 
-Vue.config.productionTip = false
+Vue.config.productionTip = true
 
 new Vue({
   router,
