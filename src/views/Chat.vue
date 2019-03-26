@@ -162,7 +162,7 @@ export default {
       firebase
         .auth()
         .signInWithPopup(provider)
-        .then(result => {
+        .then(() => {
           this.username = firebase.auth().currentUser.displayName
         })
         .catch(err => {
